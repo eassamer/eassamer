@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [FT_TRANSCENDENCE](https://github.com/youssefachehboune/ft_transcendence)
 
-- 🌱 I’m currently learning **Javascript (REACT JS, NODEJS)**
+- 🌱 I’m currently working with **NextJs , ReactJs (Typescript)**
 
 - 📝 I regularly write articles on [WEB SERVERS](WEB SERVERS)
 
-- 💬 Ask me about **C C++**
+- 💬 Ask me about **ReactJS NextJs**
 
 - 📫 How to reach me **https://www.linkedin.com/in/elmehdi-assamer-608a03155/**
 
