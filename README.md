@@ -29,6 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eassamer&show_icons=true&locale=en&layout=compact" alt="eassamer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eassamer&" alt="eassamer" /></p>
-
-[![eassamer's 42 stats](https://badge42.vercel.app/api/v2/cl73a8eaz00510gmqflq5pe4y/stats?cursusId=21&coalitionId=73)](https://github.com/JaeSeoKim/badge42)
